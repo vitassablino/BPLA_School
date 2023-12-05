@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vitassablino/BPLA_School/static/css/main.9d215209.css",
+    "main.js": "/vitassablino/BPLA_School/static/js/main.11557e0a.js",
+    "static/js/787.93c472bf.chunk.js": "/vitassablino/BPLA_School/static/js/787.93c472bf.chunk.js",
+    "static/media/ezgif.com-video-to-gif.gif": "/vitassablino/BPLA_School/static/media/ezgif.com-video-to-gif.bf898fa95b05f24c9cf4.gif",
+    "static/media/kartinki-bespilotniki.jpg": "/vitassablino/BPLA_School/static/media/kartinki-bespilotniki.fdb28af8e88515b1d1f6.jpg",
+    "static/media/funny bpla.jpeg": "/vitassablino/BPLA_School/static/media/funny bpla.f783e01971a07c305018.jpeg",
+    "static/media/bpla.jpeg": "/vitassablino/BPLA_School/static/media/bpla.1a8979e451c81ca3adf3.jpeg",
+    "static/media/gerb_ministerstva_oborony.svg": "/vitassablino/BPLA_School/static/media/gerb_ministerstva_oborony.80a5afda0683ecae3f9f.svg",
+    "static/media/drone.jpeg": "/vitassablino/BPLA_School/static/media/drone.82e47784ad3df5215ef4.jpeg",
+    "static/media/Inter-Medium.woff": "/vitassablino/BPLA_School/static/media/Inter-Medium.44e343ff76a98508d309.woff",
+    "static/media/Inter-Black.woff": "/vitassablino/BPLA_School/static/media/Inter-Black.87c06fd2ac7128c9a81d.woff",
+    "static/media/Inter-Regular.woff": "/vitassablino/BPLA_School/static/media/Inter-Regular.0d6f7c99e635f1fec4c9.woff",
+    "static/media/Inter-Medium.woff2": "/vitassablino/BPLA_School/static/media/Inter-Medium.01f03178adde434fc9fa.woff2",
+    "static/media/Inter-Black.woff2": "/vitassablino/BPLA_School/static/media/Inter-Black.ed17840f58cc8c61635a.woff2",
+    "static/media/Inter-Regular.woff2": "/vitassablino/BPLA_School/static/media/Inter-Regular.bd097ceff83f90802a12.woff2",
+    "index.html": "/vitassablino/BPLA_School/index.html",
+    "main.9d215209.css.map": "/vitassablino/BPLA_School/static/css/main.9d215209.css.map",
+    "main.11557e0a.js.map": "/vitassablino/BPLA_School/static/js/main.11557e0a.js.map",
+    "787.93c472bf.chunk.js.map": "/vitassablino/BPLA_School/static/js/787.93c472bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d215209.css",
+    "static/js/main.11557e0a.js"
+  ]
+}
